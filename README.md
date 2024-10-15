@@ -1,5 +1,5 @@
 # Currency Exchange #
-During our React practice classes, we worked on a small project with my classmates.
+During our React practice classes, we worked on this simple yet useful and convenient project with my classmates.
 
 ## Here you can
 * See exchange rates
