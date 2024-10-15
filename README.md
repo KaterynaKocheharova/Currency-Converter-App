@@ -1,5 +1,5 @@
-# Current Exchange #
-We worked on a small project with my classmates during our React practice classes.
+# Currency Exchange #
+During our React practice classes, we worked on a small project with my classmates.
 
 ## Here you can
 * See exchange rates
