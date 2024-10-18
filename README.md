@@ -1,5 +1,5 @@
 # Currency Exchange #
-Simple yet convenient exchange currency app the we worked on with my classmates during our React practice class.
+Simple yet convenient exchange currency app that we worked on with my classmates during our React practice class.
 
 ## Here you can
 * See exchange rates
